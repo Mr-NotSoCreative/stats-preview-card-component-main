@@ -30,7 +30,6 @@ Users should be able to:
 
 ![img.png](./images/Screenshot-mobile.png)
 
-
 ### Links
 
 - Solution URL: [Github](https://your-solution-url.com)
@@ -45,13 +44,7 @@ Users should be able to:
 - CSS Grid
 - CSS Flex
 
-
-
-
 ## Author
-
 
 - Frontend Mentor - [@Mr-NotSoCreative](https://www.frontendmentor.io/profile/Mr-NotSoCreative)
 - Github - [@Mr-NotSoCreative](https://github.com/Mr-NotSoCreative)
-
-
